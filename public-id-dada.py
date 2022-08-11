@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-#coding=dada
+#coding=utf-8
 #The Credit For This Code Goes To Raisul
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2022
