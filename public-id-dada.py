@@ -436,4 +436,5 @@ def pilih_super():
 	menu()
 
 if __name__ == '__main__':
-	login()
+	<module>
+    login()
